@@ -5,3 +5,5 @@
 3)differnece between left and right joins?
 
 4)select duplicate records in table?
+
+5)select difference records from different tables?
