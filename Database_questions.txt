@@ -7,3 +7,5 @@
 4)select duplicate records in table?
 
 5)select difference records from different tables?
+
+6)test table?
