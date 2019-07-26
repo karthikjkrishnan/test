@@ -1,0 +1,7 @@
+1)Select records who was not booking tickets()not getted listed in the transaction table?
+
+2)Purpose of cursor object in python?
+
+3)differnece between left and right joins?
+
+4)select duplicate records in table?
