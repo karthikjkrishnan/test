@@ -8,4 +8,8 @@
 
 5)select difference records from different tables?
 
+<<<<<<< HEAD
 6)test table?
+=======
+6)Table selection?
+>>>>>>> 55e834ec95105655f922548aa5ab3df4c76452b6
